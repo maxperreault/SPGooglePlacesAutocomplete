@@ -58,7 +58,7 @@
 /*!
  The distance (in meters) within which to return Place results. Note that setting a radius biases results to the indicated area, but may not fully restrict results to the specified area.
  */
-@property (nonatomic) CGFloat radius;
+@property (nonatomic) float radius;
 
 /*!
  The language in which to return results. See the supported list of domain languages. Note that we often update supported languages so this list may not be exhaustive. If language is not supplied, the Place service will attempt to use the native language of the domain from which the request is sent.

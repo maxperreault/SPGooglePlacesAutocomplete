@@ -8,6 +8,7 @@
 
 #import "SPGooglePlacesAutocompleteQuery.h"
 #import "SPGooglePlacesAutocompletePlace.h"
+#import "APIKey.h"
 
 @interface SPGooglePlacesAutocompleteQuery()
 @property (nonatomic, copy, readwrite) SPGooglePlacesAutocompleteResultBlock resultBlock;

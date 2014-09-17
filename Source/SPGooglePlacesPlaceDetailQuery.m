@@ -7,6 +7,7 @@
 //
 
 #import "SPGooglePlacesPlaceDetailQuery.h"
+#import "APIKey.h"
 
 @interface SPGooglePlacesPlaceDetailQuery()
 @property (nonatomic, copy, readwrite) SPGooglePlacesPlaceDetailResultBlock resultBlock;

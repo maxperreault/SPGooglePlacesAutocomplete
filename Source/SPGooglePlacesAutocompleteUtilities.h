@@ -6,6 +6,7 @@
 //  Copyright (c) 2012 Stephen Poletto. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
 #define kGoogleAPINSErrorCode 42
 
 @class SPGooglePlacesPlacemark;
